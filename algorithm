@@ -1,0 +1,13 @@
+start
+enter the binary number
+read the binary number
+call function binary to decimal
+equivalent decimal number
+stop
+
+bintodec function
+start
+if(!(binarynum/10))
+return(binarynum)
+return(binarynum%10+bintodec(int binarynumber/10)+2
+end function
